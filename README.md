@@ -1,0 +1,2 @@
+# PatikaDevPratik
+PatikaDevPratik çalışmaları
